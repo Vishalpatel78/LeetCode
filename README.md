@@ -29,6 +29,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Vishalpatel78/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Vishalpatel78/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/Vishalpatel78/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -37,4 +38,12 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Vishalpatel78/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+## Math
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Vishalpatel78/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Vishalpatel78/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
