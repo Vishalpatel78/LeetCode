@@ -27,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vishalpatel78/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Vishalpatel78/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Vishalpatel78/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vishalpatel78/LeetCode/tree/master/0014-longest-common-prefix) |
@@ -45,6 +46,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vishalpatel78/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Vishalpatel78/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Math
 |  |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Vishalpatel78/LeetCode/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vishalpatel78/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
