@@ -85,4 +85,8 @@
 |  |
 | ------- |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Vishalpatel78/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Vishalpatel78/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
