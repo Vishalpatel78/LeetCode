@@ -17,6 +17,7 @@
 | [0057-insert-interval](https://github.com/Vishalpatel78/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Vishalpatel78/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/Vishalpatel78/LeetCode/tree/master/0068-text-justification) |
+| [0078-subsets](https://github.com/Vishalpatel78/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vishalpatel78/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishalpatel78/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Matrix
@@ -148,4 +149,9 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vishalpatel78/LeetCode/tree/master/0037-sudoku-solver) |
+| [0078-subsets](https://github.com/Vishalpatel78/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Vishalpatel78/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
