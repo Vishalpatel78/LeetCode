@@ -14,6 +14,7 @@
 | [0037-sudoku-solver](https://github.com/Vishalpatel78/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Vishalpatel78/LeetCode/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/Vishalpatel78/LeetCode/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/Vishalpatel78/LeetCode/tree/master/0068-text-justification) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vishalpatel78/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishalpatel78/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Matrix
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vishalpatel78/LeetCode/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/Vishalpatel78/LeetCode/tree/master/0068-text-justification) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | [0010-regular-expression-matching](https://github.com/Vishalpatel78/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Vishalpatel78/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vishalpatel78/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0068-text-justification](https://github.com/Vishalpatel78/LeetCode/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/Vishalpatel78/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Vishalpatel78/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vishalpatel78/LeetCode/tree/master/0242-valid-anagram) |
