@@ -87,6 +87,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vishalpatel78/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Vishalpatel78/LeetCode/tree/master/0013-roman-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/Vishalpatel78/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
@@ -135,6 +136,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vishalpatel78/LeetCode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Vishalpatel78/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vishalpatel78/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Vishalpatel78/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -144,6 +146,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Vishalpatel78/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Vishalpatel78/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vishalpatel78/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Vishalpatel78/LeetCode/tree/master/0206-reverse-linked-list) |
