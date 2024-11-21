@@ -18,6 +18,7 @@
 | [0063-unique-paths-ii](https://github.com/Vishalpatel78/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/Vishalpatel78/LeetCode/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/Vishalpatel78/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Vishalpatel78/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vishalpatel78/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishalpatel78/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Matrix
@@ -26,6 +27,7 @@
 | [0037-sudoku-solver](https://github.com/Vishalpatel78/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Vishalpatel78/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Vishalpatel78/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/Vishalpatel78/LeetCode/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 | [0013-roman-to-integer](https://github.com/Vishalpatel78/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vishalpatel78/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0068-text-justification](https://github.com/Vishalpatel78/LeetCode/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/Vishalpatel78/LeetCode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Vishalpatel78/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Vishalpatel78/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vishalpatel78/LeetCode/tree/master/0242-valid-anagram) |
@@ -150,6 +153,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vishalpatel78/LeetCode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Vishalpatel78/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Vishalpatel78/LeetCode/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
