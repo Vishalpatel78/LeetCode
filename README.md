@@ -14,6 +14,7 @@
 | [0037-sudoku-solver](https://github.com/Vishalpatel78/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Vishalpatel78/LeetCode/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/Vishalpatel78/LeetCode/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/Vishalpatel78/LeetCode/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/Vishalpatel78/LeetCode/tree/master/0068-text-justification) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vishalpatel78/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishalpatel78/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
