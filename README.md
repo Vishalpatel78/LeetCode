@@ -21,6 +21,7 @@
 | [0078-subsets](https://github.com/Vishalpatel78/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Vishalpatel78/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vishalpatel78/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Vishalpatel78/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Vishalpatel78/LeetCode/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vishalpatel78/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishalpatel78/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -31,6 +32,7 @@
 | [0054-spiral-matrix](https://github.com/Vishalpatel78/LeetCode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Vishalpatel78/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/Vishalpatel78/LeetCode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Vishalpatel78/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Vishalpatel78/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1078-remove-outermost-parentheses](https://github.com/Vishalpatel78/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Vishalpatel78/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
@@ -120,6 +123,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Vishalpatel78/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Vishalpatel78/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0063-unique-paths-ii](https://github.com/Vishalpatel78/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0085-maximal-rectangle](https://github.com/Vishalpatel78/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Counting
 |  |
 | ------- |
@@ -174,4 +178,8 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vishalpatel78/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Vishalpatel78/LeetCode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
