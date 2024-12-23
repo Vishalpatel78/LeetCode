@@ -27,6 +27,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vishalpatel78/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vishalpatel78/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishalpatel78/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0204-count-primes](https://github.com/Vishalpatel78/LeetCode/tree/master/0204-count-primes) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vishalpatel78/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
@@ -94,6 +95,7 @@
 | [0002-add-two-numbers](https://github.com/Vishalpatel78/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Vishalpatel78/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vishalpatel78/LeetCode/tree/master/0013-roman-to-integer) |
+| [0204-count-primes](https://github.com/Vishalpatel78/LeetCode/tree/master/0204-count-primes) |
 | [2032-largest-odd-number-in-string](https://github.com/Vishalpatel78/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vishalpatel78/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
@@ -202,4 +204,12 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Vishalpatel78/LeetCode/tree/master/0085-maximal-rectangle) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vishalpatel78/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vishalpatel78/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
