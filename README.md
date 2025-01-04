@@ -85,6 +85,7 @@
 | [0015-3sum](https://github.com/Vishalpatel78/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vishalpatel78/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vishalpatel78/LeetCode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Vishalpatel78/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vishalpatel78/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Vishalpatel78/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Vishalpatel78/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vishalpatel78/LeetCode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Vishalpatel78/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Vishalpatel78/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vishalpatel78/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Vishalpatel78/LeetCode/tree/master/0141-linked-list-cycle) |
