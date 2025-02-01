@@ -28,6 +28,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vishalpatel78/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishalpatel78/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/Vishalpatel78/LeetCode/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/Vishalpatel78/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vishalpatel78/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
@@ -216,4 +217,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vishalpatel78/LeetCode/tree/master/0204-count-primes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Vishalpatel78/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
