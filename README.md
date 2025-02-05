@@ -29,6 +29,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishalpatel78/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/Vishalpatel78/LeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Vishalpatel78/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Vishalpatel78/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vishalpatel78/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
@@ -52,6 +53,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vishalpatel78/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vishalpatel78/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishalpatel78/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Vishalpatel78/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## String
 |  |
 | ------- |
