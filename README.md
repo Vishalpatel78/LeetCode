@@ -44,6 +44,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vishalpatel78/LeetCode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/Vishalpatel78/LeetCode/tree/master/0068-text-justification) |
+| [3447-clear-digits](https://github.com/Vishalpatel78/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vishalpatel78/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
@@ -75,12 +76,14 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Vishalpatel78/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vishalpatel78/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/Vishalpatel78/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [3447-clear-digits](https://github.com/Vishalpatel78/LeetCode/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Vishalpatel78/LeetCode/tree/master/0085-maximal-rectangle) |
 | [1078-remove-outermost-parentheses](https://github.com/Vishalpatel78/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Vishalpatel78/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [3447-clear-digits](https://github.com/Vishalpatel78/LeetCode/tree/master/3447-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
