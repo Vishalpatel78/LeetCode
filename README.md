@@ -14,6 +14,7 @@
 | [0037-sudoku-solver](https://github.com/Vishalpatel78/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Vishalpatel78/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Vishalpatel78/LeetCode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/Vishalpatel78/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Vishalpatel78/LeetCode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Vishalpatel78/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Vishalpatel78/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -150,6 +151,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vishalpatel78/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Vishalpatel78/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/Vishalpatel78/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Vishalpatel78/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Vishalpatel78/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Counting
@@ -181,6 +183,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vishalpatel78/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Vishalpatel78/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Vishalpatel78/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vishalpatel78/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vishalpatel78/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Heap (Priority Queue)
