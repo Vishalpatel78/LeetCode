@@ -31,6 +31,7 @@
 | [0204-count-primes](https://github.com/Vishalpatel78/LeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Vishalpatel78/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vishalpatel78/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vishalpatel78/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vishalpatel78/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
