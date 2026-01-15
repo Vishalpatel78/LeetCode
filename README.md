@@ -20,6 +20,7 @@
 | [0057-insert-interval](https://github.com/Vishalpatel78/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Vishalpatel78/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/Vishalpatel78/LeetCode/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/Vishalpatel78/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Vishalpatel78/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Vishalpatel78/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vishalpatel78/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -101,6 +102,7 @@
 | [0018-4sum](https://github.com/Vishalpatel78/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vishalpatel78/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vishalpatel78/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Vishalpatel78/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vishalpatel78/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Vishalpatel78/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Vishalpatel78/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -151,6 +153,7 @@
 | [0015-3sum](https://github.com/Vishalpatel78/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vishalpatel78/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vishalpatel78/LeetCode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Vishalpatel78/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Vishalpatel78/LeetCode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
