@@ -30,6 +30,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vishalpatel78/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vishalpatel78/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vishalpatel78/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Vishalpatel78/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vishalpatel78/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Vishalpatel78/LeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Vishalpatel78/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -139,6 +140,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vishalpatel78/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vishalpatel78/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Vishalpatel78/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Vishalpatel78/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Vishalpatel78/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vishalpatel78/LeetCode/tree/master/0242-valid-anagram) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Vishalpatel78/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -154,6 +156,7 @@
 | [0016-3sum-closest](https://github.com/Vishalpatel78/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vishalpatel78/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Vishalpatel78/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Vishalpatel78/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vishalpatel78/LeetCode/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
@@ -166,6 +169,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vishalpatel78/LeetCode/tree/master/0169-majority-element) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Vishalpatel78/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vishalpatel78/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Linked List
@@ -195,6 +199,7 @@
 | [0053-maximum-subarray](https://github.com/Vishalpatel78/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vishalpatel78/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vishalpatel78/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/Vishalpatel78/LeetCode/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
