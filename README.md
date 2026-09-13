@@ -148,6 +148,7 @@
 | [0169-majority-element](https://github.com/Vishalpatel78/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Vishalpatel78/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vishalpatel78/LeetCode/tree/master/0242-valid-anagram) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishalpatel78/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Vishalpatel78/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vishalpatel78/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String Matching
@@ -164,6 +165,7 @@
 | [0088-merge-sorted-array](https://github.com/Vishalpatel78/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Vishalpatel78/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vishalpatel78/LeetCode/tree/master/0242-valid-anagram) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishalpatel78/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vishalpatel78/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vishalpatel78/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vishalpatel78/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishalpatel78/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -244,6 +247,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vishalpatel78/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vishalpatel78/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Vishalpatel78/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishalpatel78/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -265,4 +269,9 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vishalpatel78/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vishalpatel78/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishalpatel78/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Vishalpatel78/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
